@@ -28,20 +28,20 @@
 <hr>
 
 ```YAML
-                                    ---
-                                    personal:
-                                      - age: 17.
-                                      - gender: Male.
-                                      - country: USA.
-                                    
-                                    knowledge:
-                                      - Extensive knowledge of Python.
-                                      - Experience with Unity game development.
-                                      - languages: ["Python", "C#", "HTML", "CSS", "Javascript"]
-                                      - tools: ["Unity", "VSCode/VSCodium", "Github", "Git"]
-                                    
-                                    development:
-                                      - TBD
+                                  ---
+                                  personal:
+                                    - age: 17.
+                                    - gender: Male.
+                                    - country: USA.
+                                  
+                                  knowledge:
+                                    - Extensive knowledge of Python.
+                                    - Experience with Unity game development.
+                                    - languages: ["Python", "C#", "HTML", "CSS", "Javascript"]
+                                    - tools: ["Unity", "VSCode/VSCodium", "Github", "Git"]
+                                  
+                                  development:
+                                    - TBD
 ```
 
 <hr>
