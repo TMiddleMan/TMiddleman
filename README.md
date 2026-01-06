@@ -2,7 +2,7 @@
 
 <p align = "center">
   <img width="140" src="https://komarev.com/ghpvc/?username=MrMiddleman&style=for-the-badge">
-  <img width="100" height="185" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" href="mailto:tmiddleman@proton.me">
+  <img width="90" height="185" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" href="mailto:tmiddleman@proton.me">
   <img src="https://img.shields.io/github/stars/MrMiddleman?style=for-the-badge&amp;?affiliations=OWNER%2CCOLLABORATOR">
 </p>
 
